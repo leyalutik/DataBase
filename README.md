@@ -19,3 +19,6 @@ A query after these commands on the Database can be made with additional conditi
 When requesting certain data, the "Find" and "Del" commands display how much data they found or deleted respectively.
 If you do not enter anything after the commands, "Find" will display all events, and "Dell" will delete all events.
 
+- "Last" command displays the most appropriate date for the condition and the last event added to this date. If there is no data, a message is displayed.
+
+
