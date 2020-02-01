@@ -8,7 +8,7 @@ Internal spaces and non-standard characters inside the event are allowed.
 
 When you start the program, you must enter the following command:
 
- - "ADD" command- 
+ - "Add" command- 
 add data to the Database, after this command, add a date and event separated by a space.
 The data must be entered according to the rules written above, otherwise the record will not be added.
 The date can be repeated, the event can be repeated, if an existing "date event" pair is added to the Database, this pair is ignored.
